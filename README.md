@@ -2,10 +2,11 @@
 
 Criei esse perfil para registrar e compartilhar minhas experiências.
 
+<!--ts-->
+
 👩🏻‍🎓 Graduada em Análise e Desenvolvimento de Sistemas
 👩🏻‍💻 Futura Desenvolvedora Full Stack - Resilia Educação
 
-<!--ts-->
    * [LinkedIn](linkedin.com/in/cardosofvanessa/)
 
 <!--te-->
