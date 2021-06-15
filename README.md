@@ -4,7 +4,7 @@ Criei esse perfil para registrar e compartilhar minhas experiências.
 
 * 👩🏻‍🎓 Graduada em Análise e Desenvolvimento de Sistemas <br />
 * 👩🏻‍💻 Futura Desenvolvedora Full Stack - Resilia Educação
-* [LinkedIn](linkedin.com/in/cardosofvanessa/)
+* [LinkedIn](linkedin.com/in/cardosofvanessa)
 
 <!--
 **cardosovanessa/cardosovanessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
