@@ -4,7 +4,6 @@ Criei esse perfil para registrar e compartilhar minhas experiências.
 
 * 👩🏻‍🎓 Graduada em Análise e Desenvolvimento de Sistemas <br />
 * 👩🏻‍💻 Futura Desenvolvedora Full Stack - Resilia Educação
-
 * [LinkedIn](linkedin.com/in/cardosofvanessa/)
 
 <!--
