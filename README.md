@@ -6,7 +6,7 @@ Criei esse perfil para registrar e compartilhar minhas experiências.
 👩🏻‍💻 Futura Desenvolvedora Full Stack - Resilia Educação
 
 <!--ts-->
-   * [LinkedIn](#https://www.linkedin.com/in/cardosofvanessa/)
+   * [LinkedIn](linkedin.com/in/cardosofvanessa/)
 
 <!--te-->
 
