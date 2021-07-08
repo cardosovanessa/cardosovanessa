@@ -1,6 +1,6 @@
 ### Olá! 🤘🏼
 
-Criei esse perfil para registrar e compartilhar minhas experiências.
+Criei este perfil para registrar e compartilhar minhas experiências.
 
 * 👩🏻‍🎓 | Graduada em Análise e Desenvolvimento de Sistemas <br />
 * 👩🏻‍💻 | Web Dev Jr. | Resilia Educação
