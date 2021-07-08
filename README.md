@@ -1,4 +1,4 @@
-### Olá! 🤘🏼
+### Olá, visitante 🤘🏼
 
 Criei este perfil para registrar e compartilhar minhas experiências.
 
