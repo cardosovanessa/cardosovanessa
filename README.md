@@ -1,4 +1,4 @@
-### Hi there 🤘🏼
+### Olá! 🤘🏼
 
 Criei esse perfil para registrar e compartilhar minhas experiências.
 
