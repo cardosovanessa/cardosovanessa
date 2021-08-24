@@ -3,6 +3,7 @@
 Criei este perfil para registrar e compartilhar minhas experiências.
 
 - Curitiba, PR 🇧🇷
+- FrontEnd Developer 👥
 - Graduada em Análise e Desenvolvimento de Sistemas 👩🏻‍🎓<br />
 - Jr. Web Developer - Resilia Educação 👩🏻‍💻
 
