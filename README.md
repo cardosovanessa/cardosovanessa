@@ -1,12 +1,28 @@
-### Hello World! 🤘🏼
+<div align="center"> 
+  
+  ### Hi, i'm Vanessa! 
 
-I created this profile to record and share my experiences.
+  Frontend Developer <br>
+  JavaScript | React | Node <br>
+  Graduated in Systems Analysis and Development
+</div>
 
-- From Curitiba, PR 🇧🇷
-- Frontend Developer 👩🏻‍💻
-- Graduated in Systems Analysis and Development 👩🏻‍🎓<br />
+##
 
-Reach me out: <br />
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cardosofvanessa/)](https://www.linkedin.com/in/cardosofvanessa/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cardosovanessafs@gmail.com)](mailto:cardosovanessafs@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vcardoso_/)](https://www.instagram.com/vcardoso_/)
+<div align="center">
+  <img align="center" height="23" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
+  <img align="center" height="25" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+  <img align="center" height="25" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
+  <img align="center" height="23" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
+</div>
+
+##
+
+<div align="center"> 
+  Reach me out:<br><br>
+  <a href="https://www.linkedin.com/in/cardosofvanessa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+  <a href="mailto: cardosovanessafs@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.instagram.com/vcardoso" target="_blank"><img src="https://img.shields.io/badge/-Instagram-d34096?    style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</div>
