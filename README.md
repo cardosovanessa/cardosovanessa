@@ -24,5 +24,4 @@
   Reach me out:<br><br>
   <a href="mailto: cardosovanessafs@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/cardosofvanessa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
-  <a href="https://www.instagram.com/vcardoso_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-d34096?    style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
